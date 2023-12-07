@@ -1,2 +1,1 @@
-#Telecom Customer Churn Analysis
-Customer Churn Analysis Project Files
+#Telecom Customer Churn Analysis Project Files
